@@ -1,0 +1,5 @@
+{
+  "name": "PerlinDot",
+  "description": "10,000 Dots, Infinite Terrains. A procedural world generator using Perlin noise with a Mint Green and Electric Blue aesthetic.",
+  "requestFramePermissions": []
+}
